@@ -1,0 +1,35 @@
+.test{
+    font-size:large!important;
+}
+
+.active {
+    display: inline-block;
+    background: rgb(237, 231, 246);
+    color: rgb(103, 58, 183);
+    border-radius: 5px;
+    
+}
+
+.active p{
+      font-weight: bold;
+  }
+
+.pending {
+    display: inline-block;
+    color: hsl(224, 98%, 58%);
+}
+
+.unactive{
+    display: inline-block;
+    background: white;
+    color: rgb(54, 65, 82);
+    font-weight: 600;
+}
+
+
+.main{
+    margin-top: 10%!important;
+    background-color: #fdfdfd;
+    border-radius: 10px;
+    border: 1px solid #fdfdfd;
+}
